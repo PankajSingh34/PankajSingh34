@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 💡 Aspiring software developer passionate about **MERN Stack, AI projects, and DSA**.  
-📚 Athletic Secretary @ BIAS Bhimtal| Active in Social Club & volunteering.  
+📚 **Athletic Secretary @ BIAS Bhimtal** | Active in Social Club & volunteering.  
 🌱 Currently working on:
 - 🌐 **Counseling Web App** – Student onboarding & admin management.  
 - 🤖 **AI Hydroponics Monitoring** – Remote pH & humidity monitoring system.  
@@ -17,14 +17,17 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/pankaj-singh-2a968b212/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:singhps588@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://YOUR-PORTFOLIO.com" target="blank">
+<a href="https://portfolio-j9v1-fzf179iwf-pankaj-singhs-projects-aaf995e9.vercel.app/" target="blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/pankajsngh_/" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
 
@@ -64,3 +67,4 @@
 ---
 
 ⭐️ From [Pankaj Singh](https://github.com/PankajSingh34)
+
