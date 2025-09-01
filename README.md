@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 💡 Aspiring software developer passionate about **MERN Stack, AI projects, and DSA**.  
-📚 Placement Cell Coordinator | Active in Social Club & volunteering.  
+📚 Athletic Secretary @ BIAS Bhimtal| Active in Social Club & volunteering.  
 🌱 Currently working on:
 - 🌐 **Counseling Web App** – Student onboarding & admin management.  
 - 🤖 **AI Hydroponics Monitoring** – Remote pH & humidity monitoring system.  
