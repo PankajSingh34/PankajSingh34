@@ -8,8 +8,7 @@
 💡 Aspiring software developer passionate about **MERN Stack, AI projects, and DSA**.  
 📚 **Athletic Secretary @ BIAS Bhimtal** | Active in Social Club & volunteering.  
 🌱 Currently working on:
-- 🌐 **Counseling Web App** – Student onboarding & admin management.  
-- 🤖 **AI Hydroponics Monitoring** – Remote pH & humidity monitoring system.  
+- 🌐 **Counseling Web App** – Student onboarding & admin management.   
 - 🏋️ **Fitness Web App** – Track workouts & fitness progress.  
 🎯 Goal: To build impactful products and grow into a product-based company role.  
 
