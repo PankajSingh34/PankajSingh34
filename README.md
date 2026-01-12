@@ -1,62 +1,68 @@
-<!-- Profile README for https://github.com/PankajSingh34/PankajSingh34 -->
-
-# Hi there, I’m Pankaj Singh 👋
-
-Building reliable software with a focus on clean architecture, performance, and developer experience.
-
-- Role: Software Engineer
-- Focus: Full‑stack development, APIs, automation, cloud fundamentals
-- Open to: Collaboration on open source, mentoring, and interesting side projects
-
-## 🔧 Tech Stack
-
-- Languages: JavaScript/TypeScript, Python, Bash
-- Frontend: React (or your preferred), HTML/CSS
-- Backend: Node.js / Express, Python (FastAPI/Flask)
-- Databases: PostgreSQL, MongoDB (adjust to your tools)
-- DevOps: GitHub Actions, Docker (learning), basic CI/CD
-
-## 📈 Highlights
-
-- Selected projects (add links):
-   - Project A — brief one‑liner value statement and link
-   - Project B — brief one‑liner value statement and link
-   - Project C — brief one‑liner value statement and link
-
-## 🧰 Practices
-
-- Testing: Jest / PyTest basics
-- Code quality: ESLint, Prettier, conventional commits
-- Documentation: Clear READMEs, helpful comments
-
-## 📫 Contact
-
-- GitHub: [@PankajSingh34](https://github.com/PankajSingh34)
-- LinkedIn: Add your profile link
-- Email: Add your email
-
-## 📜 Certifications / Learning
-
-- List any certs or courses you’ve completed or are pursuing
+<!-- Banner / Profile Header -->
+<h1 align="center">Hi 👋, I'm Pankaj Singh</h1>
+<h3 align="center">CSE Student @ BIAS Bhimtal 🎓 | MERN & AI Enthusiast 🚀 | Tech + Fitness Explorer 🏋️‍♂️🥾</h3>
 
 ---
 
-### Badges (optional)
-
-You can add status badges to showcase builds, coverage, or versions.
-
-- CI: ![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
-- License: ![License](https://img.shields.io/badge/license-MIT-green)
-
----
-
-### Pin your top repositories
-
-Use GitHub’s profile “Customize your pins” to highlight your best work on your profile.
+### 👨‍💻 About Me
+💡 Aspiring software developer passionate about **MERN Stack, AI projects, and DSA**.  
+📚 **Athletic Secretary @ BIAS Bhimtal** | Active in Social Club & volunteering.  
+🌱 Currently working on:
+-convox realtime chat application.
+🎯 Goal: To build impactful products and grow into a product-based company role.  
 
 ---
 
-### Notes
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/pankaj-singh-2a968b212/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:singhps588@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://portfolio-j9v1.vercel.app/" target="blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/pankajsngh_/" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
 
-- Replace placeholder sections with your actual details and links.
-- Keep it concise; refresh occasionally with recent work.
+---
+
+### 🛠️ Skills
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=PankajSingh34&show_icons=true&theme=tokyonight" alt="Pankaj's GitHub stats" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajSingh34&theme=tokyonight" alt="GitHub Streak" height="150"/>
+</p>
+
+---
+
+### 📈 Most Used Languages
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=PankajSingh34&color=blue&style=flat-square)
+
+---
+
+⭐️ From [Pankaj Singh](https://github.com/PankajSingh34)
+
