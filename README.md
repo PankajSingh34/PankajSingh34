@@ -1,30 +1,40 @@
-<h1 align="center">Hi 👋, I'm Pankaj Singh</h1>
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Pankaj%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <h3 align="center">
 B.Tech CSE | Full-Stack & Backend Developer 🚀 | Open Source Contributor
 </h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Backend+%26+System+Design+Learner;Open+Source+Contributor;Problem+Solver+%26+Fitness+Enthusiast" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
-- 🎓 CSE Student @ BIAS Bhimtal  
-- 💡 MERN Stack | Backend | DSA  
-- 🌱 Building **Convox – Real-time Chat App (Sockets, MERN)**  
-- 🎯 Goal: Product-Based Company Engineer  
-- 🏋️ Fitness | 🥾 Hiking | 🧠 Problem Solving  
+- 🎓 **CSE Student @ BIAS Bhimtal**
+- 💡 Passionate about **MERN Stack, Backend Development, AI & DSA**
+- 🌱 Currently building **Convox – Real-time Chat Application (Sockets, MERN)**
+- 🎯 Goal: **Product-Based Company Engineer**
+- 🏋️ Fitness | 🥾 Hiking | 🧠 Problem Solving
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/pankaj-singh-2a968b212/">
-  <img src="https://img.shields.io/badge/LinkedIn-Pankaj_Singh-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/pankaj-singh-2a968b212/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:singhps588@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://portfolio-j9v1.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
+<a href="https://portfolio-j9v1.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+<a href="https://www.instagram.com/pankajsngh_/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 </p>
 
@@ -32,43 +42,60 @@ B.Tech CSE | Full-Stack & Backend Developer 🚀 | Open Source Contributor
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs">
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,tailwind,git,github,linux" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects Highlight
 - 🔹 **Convox** – Real-time Chat Application (Sockets, MERN)
-- 🔹 **AI-based Text Summarizer**
-- 🔹 **Fitness Web Application**
-- 🔹 Open Source Contributions (GSoC focused)
+- 🔹 **AI-based Summarizer**
+- 🔹 **Fitness Web App**
+- 🔹 **Open Source Contributions (GSoC-focused)**
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/Public_Repos-{{YOUR_REPO_COUNT}}-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-System_Design_%26_DSA-purple?style=for-the-badge">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PankajSingh34&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PankajSingh34&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PankajSingh34&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PankajSingh34&style=for-the-badge&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=PankajSingh34&color=38B2AC&style=for-the-badge" />
 </p>
 
 ---
 
 ⭐ **From [Pankaj Singh](https://github.com/PankajSingh34)**  
-💬 *Consistency beats talent when talent doesn’t stay consistent.*
+💬 *“Consistency beats talent when talent doesn’t stay consistent.”*
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=120&section=footer"/>
+</p>
+
 
