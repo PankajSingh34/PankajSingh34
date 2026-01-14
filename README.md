@@ -5,8 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-💡 Aspiring software developer passionate about **MERN Stack, AI projects, and DSA**.  
-📚 **Athletic Secretary @ BIAS Bhimtal** | Active in Social Club & volunteering.  
+💡 Aspiring software developer passionate about **MERN Stack, AI projects, and DSA**.   
 🌱 Currently working on:
 -convox realtime chat application.
 🎯 Goal: To build impactful products and grow into a product-based company role.  
