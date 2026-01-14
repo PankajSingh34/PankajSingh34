@@ -71,7 +71,7 @@ B.Tech CSE | Full-Stack & Backend Developer 🚀 | Open Source Contributor
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PankajSingh34&theme=tokyonight&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PankajSingh34&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
