@@ -71,7 +71,7 @@ B.Tech CSE | Full-Stack & Backend Developer 🚀 | Open Source Contributor
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajSingh34&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=PankajSingh34&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ B.Tech CSE | Full-Stack & Backend Developer 🚀 | Open Source Contributor
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PankajSingh34&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=PankajSingh34&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </p>
 
 ---
