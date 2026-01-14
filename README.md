@@ -57,21 +57,21 @@ B.Tech CSE | Full-Stack & Backend Developer 🚀 | Open Source Contributor
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PankajSingh34&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PankajSingh34&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Most Used Languages
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PankajSingh34&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PankajSingh34&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 
 ---
@@ -97,5 +97,6 @@ B.Tech CSE | Full-Stack & Backend Developer 🚀 | Open Source Contributor
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=120&section=footer"/>
 </p>
+
 
 
