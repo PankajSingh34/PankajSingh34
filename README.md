@@ -1,22 +1,23 @@
-<!-- Banner -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Pankaj%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Pankaj%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">
-CSE Student @ BIAS Bhimtal 🎓 | Full-Stack & Backend Developer 🚀 | Open Source Enthusiast
+B.Tech CSE | Full-Stack & Backend Developer 🚀 | Open Source Contributor
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Backend+%26+System+Design+Learner;Open+Source+Contributor;Problem+Solver+%26+Fitness+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Backend+%26+System+Design+Learner;Open+Source+Contributor;Problem+Solver+%26+Fitness+Enthusiast" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
+- 🎓 **CSE Student @ BIAS Bhimtal**
 - 💡 Passionate about **MERN Stack, Backend Development, AI & DSA**
-- 🌱 Currently building **Convox – a real-time chat application**
-- 🎯 Goal: **Product-Based Company Engineer (Amazon-level)**  
+- 🌱 Currently building **Convox – Real-time Chat Application (Sockets, MERN)**
+- 🎯 Goal: **Product-Based Company Engineer**
 - 🏋️ Fitness | 🥾 Hiking | 🧠 Problem Solving
 
 ---
@@ -50,49 +51,41 @@ CSE Student @ BIAS Bhimtal 🎓 | Full-Stack & Backend Developer 🚀 | Open Sou
 - 🔹 **Convox** – Real-time Chat Application (Sockets, MERN)
 - 🔹 **AI-based Summarizer**
 - 🔹 **Fitness Web App**
-- 🔹 Open Source Contributions (GSoC-focused)
+- 🔹 **Open Source Contributions (GSoC-focused)**
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=PankajSingh34&show_icons=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=PankajSingh34&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PankajSingh34&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 📈 Most Used Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PankajSingh34&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PankajSingh34&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 📊 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PankajSingh34&theme=tokyo-night" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/PankajSingh34/PankajSingh34/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PankajSingh34&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=PankajSingh34&color=38B2AC&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=PankajSingh34&color=38B2AC&style=for-the-badge" />
 </p>
 
 ---
@@ -100,7 +93,7 @@ CSE Student @ BIAS Bhimtal 🎓 | Full-Stack & Backend Developer 🚀 | Open Sou
 ⭐ **From [Pankaj Singh](https://github.com/PankajSingh34)**  
 💬 *“Consistency beats talent when talent doesn’t stay consistent.”*
 
-<!-- Footer -->
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=120&section=footer"/>
 </p>
