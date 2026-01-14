@@ -1,67 +1,107 @@
-<!-- Banner / Profile Header -->
-<h1 align="center">Hi 👋, I'm Pankaj Singh</h1>
-<h3 align="center">CSE Student @ BIAS Bhimtal 🎓 | MERN & AI Enthusiast 🚀 | Tech + Fitness Explorer 🏋️‍♂️🥾</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Pankaj%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h3 align="center">
+CSE Student @ BIAS Bhimtal 🎓 | Full-Stack & Backend Developer 🚀 | Open Source Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Backend+%26+System+Design+Learner;Open+Source+Contributor;Problem+Solver+%26+Fitness+Enthusiast" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
-💡 Aspiring software developer passionate about **MERN Stack, AI projects, and DSA**.   
-🌱 Currently working on:
--convox realtime chat application.
-🎯 Goal: To build impactful products and grow into a product-based company role.  
+## 👨‍💻 About Me
+- 💡 Passionate about **MERN Stack, Backend Development, AI & DSA**
+- 🌱 Currently building **Convox – a real-time chat application**
+- 🎯 Goal: **Product-Based Company Engineer (Amazon-level)**  
+- 🏋️ Fitness | 🥾 Hiking | 🧠 Problem Solving
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/pankaj-singh-2a968b212/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/pankaj-singh-2a968b212/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:singhps588@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://portfolio-j9v1.vercel.app/" target="blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://portfolio-j9v1.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
-<a href="https://www.instagram.com/pankajsngh_/" target="blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/pankajsngh_/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 </p>
 
 ---
 
-### 🛠️ Skills
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=PankajSingh34&show_icons=true&theme=tokyonight" alt="Pankaj's GitHub stats" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajSingh34&theme=tokyonight" alt="GitHub Streak" height="150"/>
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,tailwind,git,github,linux" />
 </p>
 
 ---
 
-### 📈 Most Used Languages
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&theme=tokyonight" alt="Top Languages" />
+## 🚀 Projects Highlight
+- 🔹 **Convox** – Real-time Chat Application (Sockets, MERN)
+- 🔹 **AI-based Summarizer**
+- 🔹 **Fitness Web App**
+- 🔹 Open Source Contributions (GSoC-focused)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=PankajSingh34&show_icons=true&theme=tokyonight" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=PankajSingh34&theme=tokyonight" />
 </p>
 
 ---
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=PankajSingh34&color=blue&style=flat-square)
+## 📈 Most Used Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-⭐️ From [Pankaj Singh](https://github.com/PankajSingh34)
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PankajSingh34&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PankajSingh34&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/PankajSingh34/PankajSingh34/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PankajSingh34&color=38B2AC&style=for-the-badge" />
+</p>
+
+---
+
+⭐ **From [Pankaj Singh](https://github.com/PankajSingh34)**  
+💬 *“Consistency beats talent when talent doesn’t stay consistent.”*
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=120&section=footer"/>
+</p>
 
