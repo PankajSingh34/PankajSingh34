@@ -62,15 +62,16 @@ B.Tech CSE | Full-Stack & Backend Developer 🚀 | Open Source Contributor
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PankajSingh34&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PankajSingh34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajSingh34&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -78,7 +79,7 @@ B.Tech CSE | Full-Stack & Backend Developer 🚀 | Open Source Contributor
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PankajSingh34&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PankajSingh34&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
 
 ---
