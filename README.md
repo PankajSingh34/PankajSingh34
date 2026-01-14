@@ -8,7 +8,7 @@ B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Backend+%26+System+Design+Learner;Open+Source+Contributor;Problem+Solver+%26+Fitness+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Backend+%26+System+Design;Open+Source+Contributor;Problem+Solver+%26+Fitness+Enthusiast" />
 </p>
 
 ---
