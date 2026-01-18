@@ -55,7 +55,7 @@ B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
 - 🔹 **Convox** – Real-time Chat Application (Sockets, MERN)
 - 🔹 **AI-based Summarizer**
 - 🔹 **Fitness Web App**
-- 🔹 **Open Source Contributions (GSoC-focused)**
+- 🔹 **Open Source Contributions**
 
 ---
 
