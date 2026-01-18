@@ -18,7 +18,7 @@ B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
 - 🎓 **CSE Student @ BIAS Bhimtal**
 - 💡 Passionate about **MERN Stack, Backend Development, AI & DSA**
 - 🌱 Currently building **Convox – Real-time Chat Application (Sockets, MERN)**
-- 🎯 Goal: **Product-Based Company Engineer**
+- 🎯 Working: **Opensource Contributor**
 - 🏋️ Fitness | 🥾 Hiking | 🧠 Problem Solving
 
 ---
