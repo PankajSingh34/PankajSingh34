@@ -52,9 +52,9 @@ B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
 
 ## 🚀 Projects Highlight
 
-- 🔹 **Convox** – Real-time Chat Application (Sockets, MERN)
+- 🔹 **AlgoBuddy-Dsa Visualizer**
 - 🔹 **AI-based Summarizer**
-- 🔹 **Fitness Web App**
+- 🔹 **Convox** – Real-time Chat Application 
 - 🔹 **Open Source Contributions**
 
 ---
