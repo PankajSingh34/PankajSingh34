@@ -13,16 +13,6 @@ B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 **CSE Student @ BIAS Bhimtal**
-- 💡 Passionate about **MERN Stack, Backend Development, AI & DSA**
-- 🌱 Codibng Blocks Campus Hero
-- 🎯 Working: **Opensource Contributor**
-- 🏋️ Fitness | 🥾 Hiking | 🧠 Problem Solving
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
