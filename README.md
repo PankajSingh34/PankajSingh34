@@ -1,10 +1,12 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Pankaj%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=200&section=header&text=Pankaj%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 <h3 align="center">
 B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
 </h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Backend+%26+System+Design;Open+Source+Contributor;Problem+Solver+%26+Fitness+Enthusiast" />
 </p>
@@ -12,57 +14,97 @@ B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
-<a href="https://www.linkedin.com/in/pankaj-singh-2a968b212/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:singhps588@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://portfolio-j9v1.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/pankajsngh_/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-singh-2a968b212/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhps588@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-j9v1.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pankajsngh_/)
+
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,tailwind,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,tailwind,git,github,linux" />
 </p>
 
 ---
 
 ## 🚀 Projects Highlight
-- 🔹 **AlgoBuddy-Dsa Visualizer**
-- 🔹 **AI-based Summarizer**
-- 🔹 **Convox** – Real-time Chat Application
-- 🔹 **Open Source Contributions**
+
+<details>
+  <summary><b>What I've Built</b></summary>
+  <br>
+
+  | Project | Description | Tech |
+  |--------|-------------|------|
+  | 🔹 **AlgoBuddy** | DSA Visualizer to help understand algorithms interactively | React, JS |
+  | 🔹 **AI Summarizer** | AI-powered text summarization tool | Node.js, OpenAI API |
+  | 🔹 **Convox** | Real-time Chat Application with rooms & messaging | MERN, Socket.io |
+  | 🔹 **Open Source** | Active contributor to open source projects | Various |
+
+</details>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+
+<details>
+  <summary><b>Stats & Language Breakdown</b></summary>
+  <br>
+  <div align="center">
+
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PankajSingh34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
+
+  </div>
+</details>
 
 ---
 
 ## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PankajSingh34&theme=tokyonight&hide_border=true" />
-</p>
+
+<details>
+  <summary><b>Consistency Check</b></summary>
+  <br>
+  <div align="center">
+
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=PankajSingh34&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+  </div>
+</details>
 
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=PankajSingh34&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</p>
+
+<details>
+  <summary><b>Achievements Unlocked</b></summary>
+  <br>
+  <div align="center">
+
+  [![Trophy](https://github-trophies.vercel.app/?username=PankajSingh34&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/PankajSingh34)
+
+  </div>
+</details>
+
+---
+
+## 📈 Contribution Graph
+
+<details>
+  <summary><b>Activity Overview</b></summary>
+  <br>
+  <div align="center">
+
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PankajSingh34&theme=tokyo-night&hide_border=true&radius=10&area=true&height=300)](https://github.com/PankajSingh34)
+
+  </div>
+</details>
 
 ---
 
@@ -81,6 +123,7 @@ B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
 ---
 
 ## 👀 Profile Views
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PankajSingh34&color=38B2AC&style=for-the-badge" />
 </p>
@@ -88,12 +131,12 @@ B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
 ---
 
 <div align="center">
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 </div>
 
-<!-- ===================== FOOTER ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=6AD3FF&center=true&vCenter=true&repeat=false&width=500&lines=Happy+Coding!+Feel+free+to+connect+and+collaborate!" alt="Footer Typing SVG" />
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&repeat=false&width=500&lines=Happy+Coding!+Feel+free+to+connect+and+collaborate!" alt="Footer Typing SVG" />
   <br>
+</div>
+
+---
