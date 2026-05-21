@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
+Coding SuperHero | Full-Stack | Open Source Contributor
 </h3>
 
 <p align="center">
