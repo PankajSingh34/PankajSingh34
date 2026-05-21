@@ -29,7 +29,7 @@ Coding SuperHero | Full-Stack | Open Source Contributor
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,tailwind,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,tailwind,git,github,linux" />
 </p>
 
 ---
