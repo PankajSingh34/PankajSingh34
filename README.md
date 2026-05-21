@@ -87,8 +87,10 @@ B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
 
 ---
 
-⭐ **From [Pankaj Singh](https://github.com/PankajSingh34)**  
-💬 *"Consistency beats talent when talent doesn't stay consistent."*
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</div>
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
