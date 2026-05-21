@@ -24,7 +24,7 @@ B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
 
 </p>
 
----
+
 
 ## 🛠️ Tech Stack
 
