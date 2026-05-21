@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=200&section=header&text=Pankaj%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pankaj%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <h3 align="center">
