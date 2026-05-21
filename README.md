@@ -66,17 +66,16 @@ B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
 
 ---
 
-## 📊 Activity Overview & Coding Metrics
+## 🐍 Contribution Snake
+
+<br clear="both">
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PankajSingh34&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PankajSingh34&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PankajSingh34&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PankajSingh34&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PankajSingh34&theme=tokyonight&utcOffset=5.5" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PankajSingh34/PankajSingh34/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PankajSingh34/PankajSingh34/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/PankajSingh34/PankajSingh34/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
