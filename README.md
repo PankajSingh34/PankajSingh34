@@ -91,6 +91,7 @@ B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
 💬 *"Consistency beats talent when talent doesn't stay consistent."*
 
 <!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=120&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=6AD3FF&center=true&vCenter=true&repeat=false&width=500&lines=Happy+Coding!+Feel+free+to+connect+and+collaborate!" alt="Footer Typing SVG" />
+  
+  <br>
