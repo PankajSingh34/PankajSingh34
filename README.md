@@ -1,8 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pankaj%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pankaj%20Singh&fontSize=42&fontColor=ffffff&animation=FadeIn" />
 </p>
-
 <h3 align="center">
 Coding SuperHero | Full-Stack | Open Source Contributor
 </h3>
