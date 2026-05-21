@@ -34,23 +34,6 @@ B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
 
 ---
 
-## 🚀 Projects Highlight
-
-<details>
-  <summary><b>What I've Built</b></summary>
-  <br>
-
-  | Project | Description | Tech |
-  |--------|-------------|------|
-  | 🔹 **AlgoBuddy** | DSA Visualizer to help understand algorithms interactively | React, JS |
-  | 🔹 **AI Summarizer** | AI-powered text summarization tool | Node.js, OpenAI API |
-  | 🔹 **Convox** | Real-time Chat Application with rooms & messaging | MERN, Socket.io |
-  | 🔹 **Open Source** | Active contributor to open source projects | Various |
-
-</details>
-
----
-
 ## 📊 GitHub Stats
 
 <details>
