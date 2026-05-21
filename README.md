@@ -91,9 +91,6 @@ B.Tech CSE | Full-Stack 🚀 | Open Source Contributor
 
 ---
 
-## 🐍 Contribution Snake
-
-<br clear="both">
 
 <p align="center">
   <picture>
