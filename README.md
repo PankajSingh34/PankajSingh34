@@ -18,31 +18,12 @@ I enjoy solving problems with **Java, Data Structures & Algorithms**, and turnin
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,tailwind,git,github,linux" />
 </p>
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
-</p>
 
 ---
 
