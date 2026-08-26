@@ -27,24 +27,6 @@ I enjoy solving problems with **Java, Data Structures & Algorithms**, and turnin
 
 ---
 
-## Featured Projects
-
-### 🤖 AI / RAG Assistant
-
-An AI-powered assistant built around **Retrieval-Augmented Generation (RAG)** concepts, focused on retrieving relevant information and generating contextual responses.
-
-**Focus:** AI · RAG · Backend · LLM Applications
-
----
-
-### 🌐 Full-Stack Applications
-
-Building web applications using the **MERN stack**, with a focus on clean APIs, responsive interfaces, authentication, and scalable backend architecture.
-
-**Stack:** MongoDB · Express.js · React · Node.js
-
----
-
 ### 🧩 Data Structures & Algorithms
 
 Regularly solving algorithmic problems and working on concepts including:
