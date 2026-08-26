@@ -41,6 +41,10 @@ Regularly solving algorithmic problems and working on concepts including:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajSingh34&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## GitHub Activity
@@ -49,17 +53,25 @@ Regularly solving algorithmic problems and working on concepts including:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PankajSingh34&theme=tokyo-night&hide_border=true&radius=8&area=true" />
 </p>
 
+---
 
-## Connect
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/PankajSingh34">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Add LinkedIn -->
-  <!-- Add Portfolio -->
-  <!-- Add Email -->
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
