@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pankaj-singh-2ajvgvj/">LinkedIn</a> •
   <a href="https://portfolio-j9v1.vercel.app/">Portfolio</a> •
-  <a href="https://leetcode.com/u/pankajsingh1/">LeetCode</a> •
   <a href="mailto:singhps588@gmail.com">Email</a>
 </p>
 
