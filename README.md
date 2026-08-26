@@ -9,12 +9,12 @@ I enjoy solving problems with **Java, Data Structures & Algorithms**, and turnin
 
 ## About Me
 
-* 💻 Full-Stack Developer working with the **MERN stack**
-* ☕ Strong focus on **Java & Data Structures and Algorithms**
-* ⚙️ Interested in **Backend Development & System Design**
-* 🌱 Exploring **AI, RAG systems, and developer tools**
-* 🔧 Interested in building practical, production-oriented projects
-* 🤝 Open to collaboration on interesting open-source and software projects
+* Full-Stack Developer working with the **MERN stack**
+* Strong focus on **Java & Data Structures and Algorithms**
+* Interested in **Backend Development & System Design**
+* Exploring **AI, RAG systems, and developer tools**
+* Interested in building practical, production-oriented projects
+* Open to collaboration on interesting open-source and software projects
 
 ---
 
