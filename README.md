@@ -1,58 +1,107 @@
-<h1 align="center">Hi, I'm Pankaj Singh</h1>
-<h3 align="center">Full-Stack Developer (MERN) | Building AI-integrated Web Applications</h3>
+# Hi, I'm Pankaj Singh 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pankaj-singh-2ajvgvj/">LinkedIn</a> •
-  <a href="https://portfolio-j9v1.vercel.app/">Portfolio</a> •
-  <a href="mailto:singhps588@gmail.com">Email</a>
+### Full-Stack Developer | Java & DSA | Backend & System Design
+
+I’m a developer focused on building **scalable web applications, backend systems, and developer-focused projects**.
+I enjoy solving problems with **Java, Data Structures & Algorithms**, and turning ideas into practical software.
+
+---
+
+## About Me
+
+* 💻 Full-Stack Developer working with the **MERN stack**
+* ☕ Strong focus on **Java & Data Structures and Algorithms**
+* ⚙️ Interested in **Backend Development & System Design**
+* 🌱 Exploring **AI, RAG systems, and developer tools**
+* 🔧 Interested in building practical, production-oriented projects
+* 🤝 Open to collaboration on interesting open-source and software projects
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
 ---
 
-### About Me
+## Featured Projects
 
-- B.Tech in Computer Science, Birla Institute of Applied Sciences (2022–2026)
-- Building (multi-agent AI platform) and (open-source DSA learning platform with 500+ users)
-- Top 5 finish at NASA Space Hackathon · Top 15,000 in Google Kick Start 2026
-- Actively contributing to open source through GirlScript Summer of Code (GSSoC)
+### 🤖 AI / RAG Assistant
 
----
+An AI-powered assistant built around **Retrieval-Augmented Generation (RAG)** concepts, focused on retrieving relevant information and generating contextual responses.
 
-### Tech Stack
-
-**Languages:** Java, JavaScript (ES6+), C++, SQL, HTML5, CSS3
-
-**Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS
-
-**Backend:** Node.js, Express.js, Spring Boot, REST APIs, Socket.IO
-
-**Databases:** MongoDB, PostgreSQL, MySQL, Supabase, Firebase
-
-**AI/ML:** RAG, LangGraph, OpenAI API, Google Gemini API
-
-**Tools:** Git, GitHub, Docker, Redis, CI/CD (GitHub Actions)
+**Focus:** AI · RAG · Backend · LLM Applications
 
 ---
 
-### Featured Projects
+### 🌐 Full-Stack Applications
 
-**[AlgoBuddy](https://github.com/PankajSingh34/AlgoBuddy)** — Open-source DSA learning platform with 50+ interactive algorithm visualizations, a real-time multiplayer coding arena, and an AI study chatbot. 500+ active users. [Live Demo](https://algo-buddy-5o6g.vercel.app/)
+Building web applications using the **MERN stack**, with a focus on clean APIs, responsive interfaces, authentication, and scalable backend architecture.
 
-**MikeAI** — Microservices-based multi-agent AI platform orchestrating Chat, PDF, and Search agents, with Redis caching that cut LLM response latency by over 1.5s per interaction.
-
-**[NASA Space Hackathon Project](https://nasa-hackathon-lftj.onrender.com/)** — Top 5 finish among 25 teams.
+**Stack:** MongoDB · Express.js · React · Node.js
 
 ---
 
-### GitHub Stats
+### 🧩 Data Structures & Algorithms
+
+Regularly solving algorithmic problems and working on concepts including:
+
+`Recursion` · `Dynamic Programming` · `Trees` · `Graphs` · `Strings` · `Arrays` · `Bit Manipulation`
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PankajSingh34&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PankajSingh34&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PankajSingh34&theme=tokyo-night&hide_border=true&radius=8" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/PankajSingh34">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- Add LinkedIn -->
+  <!-- Add Portfolio -->
+  <!-- Add Email -->
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PankajSingh34&color=blue&style=flat" alt="Profile views" />
+  <i>Building. Learning. Improving.</i>
 </p>
