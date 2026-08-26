@@ -12,8 +12,7 @@
 ### About Me
 
 - B.Tech in Computer Science, Birla Institute of Applied Sciences (2022–2026)
-- Currently working as a Software Developer Intern at Brown Spark Digital
-- Building **MikeAI** (multi-agent AI platform) and **AlgoBuddy** (open-source DSA learning platform with 500+ users)
+- Building (multi-agent AI platform) and (open-source DSA learning platform with 500+ users)
 - Top 5 finish at NASA Space Hackathon · Top 15,000 in Google Kick Start 2026
 - Actively contributing to open source through GirlScript Summer of Code (GSSoC)
 
