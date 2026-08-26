@@ -34,26 +34,6 @@ Regularly solving algorithmic problems and working on concepts including:
 `Recursion` · `Dynamic Programming` · `Trees` · `Graphs` · `Strings` · `Arrays` · `Bit Manipulation`
 
 ---
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PankajSingh34&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajSingh34&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PankajSingh34&theme=tokyo-night&hide_border=true&radius=8&area=true" />
-</p>
-
----
 
 ## Connect With Me
 
