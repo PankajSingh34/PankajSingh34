@@ -1,123 +1,60 @@
-<!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pankaj%20Singh&fontSize=42&fontColor=ffffff&animation=FadeIn" />
-</p>
-<h3 align="center">
-Coding SuperHero | Full-Stack | Open Source Contributor
-</h3>
+<h1 align="center">Hi, I'm Pankaj Singh</h1>
+<h3 align="center">Full-Stack Developer (MERN) | Building AI-integrated Web Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Backend+%26+System+Design;Open+Source+Contributor;Fitness+Enthusiast" />
-</p>
-
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-
-</p>
-
-
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,tailwind,git,github,linux" />
-</p>
-
----
-<div align="center">
-  <img src="https://media0.giphy.com/media/iJDLBX5GY8niCpZYkR/source.gif" alt="Racing Car GIF" width="275" height="185"/>
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Laptop Typing GIF" width="275" height="185"/>
-  <img src="https://i.gifer.com/origin/89/894182626f762e66170dab57945c4b9e.gif" alt="Globe Spinning GIF" width="275" height="185"/>
-</div>
-
-
-## 📊 GitHub Stats
-
-<details>
-  <summary><b>Stats & Language Breakdown</b></summary>
-  <br>
-  <div align="center">
-
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PankajSingh34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-  </div>
-</details>
-
----
-
-## 🔥 GitHub Streak
-
-<details>
-  <summary><b>Consistency Check</b></summary>
-  <br>
-  <div align="center">
-
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=PankajSingh34&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-  </div>
-</details>
-
----
-
-## 🏆 GitHub Trophies
-
-<details>
-  <summary><b>Achievements Unlocked</b></summary>
-  <br>
-  <div align="center">
-
-  [![Trophy](https://github-trophies.vercel.app/?username=PankajSingh34&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/PankajSingh34)
-
-  </div>
-</details>
-
----
-
-## 📈 Contribution Graph
-
-<details>
-  <summary><b>Activity Overview</b></summary>
-  <br>
-  <div align="center">
-
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PankajSingh34&theme=tokyo-night&hide_border=true&radius=10&area=true&height=300)](https://github.com/PankajSingh34)
-
-  </div>
-</details>
-
----
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PankajSingh34/PankajSingh34/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PankajSingh34/PankajSingh34/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/PankajSingh34/PankajSingh34/output/github-snake-dark.svg" />
-  </picture>
+  <a href="https://www.linkedin.com/in/pankaj-singh-2ajvgvj/">LinkedIn</a> •
+  <a href="https://portfolio-j9v1.vercel.app/">Portfolio</a> •
+  <a href="https://leetcode.com/u/pankajsingh1/">LeetCode</a> •
+  <a href="mailto:singhps588@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👀 Profile Views
+### About Me
+
+- B.Tech in Computer Science, Birla Institute of Applied Sciences (2022–2026)
+- Currently working as a Software Developer Intern at Brown Spark Digital
+- Building **MikeAI** (multi-agent AI platform) and **AlgoBuddy** (open-source DSA learning platform with 500+ users)
+- Top 5 finish at NASA Space Hackathon · Top 15,000 in Google Kick Start 2026
+- Actively contributing to open source through GirlScript Summer of Code (GSSoC)
+
+---
+
+### Tech Stack
+
+**Languages:** Java, JavaScript (ES6+), C++, SQL, HTML5, CSS3
+
+**Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS
+
+**Backend:** Node.js, Express.js, Spring Boot, REST APIs, Socket.IO
+
+**Databases:** MongoDB, PostgreSQL, MySQL, Supabase, Firebase
+
+**AI/ML:** RAG, LangGraph, OpenAI API, Google Gemini API
+
+**Tools:** Git, GitHub, Docker, Redis, CI/CD (GitHub Actions)
+
+---
+
+### Featured Projects
+
+**[AlgoBuddy](https://github.com/PankajSingh34/AlgoBuddy)** — Open-source DSA learning platform with 50+ interactive algorithm visualizations, a real-time multiplayer coding arena, and an AI study chatbot. 500+ active users. [Live Demo](https://algo-buddy-5o6g.vercel.app/)
+
+**MikeAI** — Microservices-based multi-agent AI platform orchestrating Chat, PDF, and Search agents, with Redis caching that cut LLM response latency by over 1.5s per interaction.
+
+**[NASA Space Hackathon Project](https://nasa-hackathon-lftj.onrender.com/)** — Top 5 finish among 25 teams.
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PankajSingh34&color=38B2AC&style=for-the-badge" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PankajSingh34&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PankajSingh34&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&repeat=false&width=500&lines=Happy+Coding!+Feel+free+to+connect+and+collaborate!" alt="Footer Typing SVG" />
-  <br>
-</div>
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PankajSingh34&color=blue&style=flat" alt="Profile views" />
+</p>
